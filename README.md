@@ -8,7 +8,7 @@ Check out the latest news from India. Latest India news on Bollywood, Science, B
 
 <h1>Result</h1> 
 
-## Home - Headlines
+## Home (Headlines)
 
 ![11](https://user-images.githubusercontent.com/79074310/126016653-d757b741-095e-4ac9-b5fd-2b67eedf606a.JPG)
 
