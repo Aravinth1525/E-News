@@ -1,28 +1,37 @@
-# Newsweb
+# E-NEWS
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
+Check out the latest news from India. Latest India news on Bollywood, Science, Business, Sports, Technology and Health.
 
-## Development server
+## Framework - Angularjs
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## API - [newsapi.org](https://newsapi.org/)
 
-## Code scaffolding
+<h1>Result</h1> 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Home - Headlines
 
-## Build
+![11](https://user-images.githubusercontent.com/79074310/126016653-d757b741-095e-4ac9-b5fd-2b67eedf606a.JPG)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Headlines
 
-## Running unit tests
+![2](https://user-images.githubusercontent.com/79074310/126016755-2ed4174b-8a01-4865-a4f3-5a1e6e9bad5c.JPG)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Description
 
-## Running end-to-end tests
+![3](https://user-images.githubusercontent.com/79074310/126016778-caf76d9f-af99-4ef1-ab41-a414895e0e72.JPG)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Science
 
-## Further help
+![sc](https://user-images.githubusercontent.com/79074310/126016804-787f1064-4ed6-478c-922f-f89c3c3c91e4.JPG)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-"# E-News" 
+## Health
+
+![h](https://user-images.githubusercontent.com/79074310/126016843-94a6a219-52c6-4614-90cd-a2e9ece92211.JPG)
+
+## Sports
+
+![sp](https://user-images.githubusercontent.com/79074310/126016905-704d6329-dfeb-4f07-8a29-ceea8056998c.JPG)
+
+## Description (Sports)
+
+![spd](https://user-images.githubusercontent.com/79074310/126016935-2ad3a1eb-1d39-4f58-a605-8ba7aab252de.JPG)
