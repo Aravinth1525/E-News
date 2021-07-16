@@ -1,12 +1,12 @@
-# E-NEWS
+## **E-NEWS**
 
 Check out the latest news from India. Latest India news on Bollywood, Science, Business, Sports, Technology and Health.
 
-## Framework - Angularjs
+### Framework - Angularjs
 
-## API - [newsapi.org](https://newsapi.org/)
+### API - [newsapi.org](https://newsapi.org/)
 
-## Result 
+### Result 
 
 ### Home (Headlines)
 
