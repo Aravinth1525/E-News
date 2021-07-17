@@ -2,7 +2,9 @@
 
 A Dynamic website where you can check out the latest news from India. Latest India news on Bollywood, Science, Business, Sports, Technology and Health.
 
-### Framework - Angularjs
+### Website Link - [E-News](https://e-newsaravinth.netlify.app/)
+
+### Framework - [AngularJS](https://angularjs.org/)
 
 ### API - [newsapi.org](https://newsapi.org/)
 
