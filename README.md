@@ -28,9 +28,13 @@ A Dynamic website where you can check out the latest news from India. Latest Ind
 
 ![h](https://user-images.githubusercontent.com/79074310/126016843-94a6a219-52c6-4614-90cd-a2e9ece92211.JPG)
 
+### Business
+
+![ff](https://user-images.githubusercontent.com/79074310/126019355-c05b76ef-60b7-44fe-aef9-1c9858aa4586.JPG)
+
 ### Sports
 
-![sp](https://user-images.githubusercontent.com/79074310/126016905-704d6329-dfeb-4f07-8a29-ceea8056998c.JPG)
+![f](https://user-images.githubusercontent.com/79074310/126019342-454d54d7-4a06-4e18-9f1a-2cc2a1e34ce9.JPG)
 
 ### Description (Sports)
 
